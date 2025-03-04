@@ -1,1 +1,0 @@
-NotADirectoryError('invalid data');
